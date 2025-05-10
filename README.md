@@ -1,8 +1,6 @@
-# CryptoChat 
+# CryptoChat Messenger
 
 A secure messaging application built with Python, PyQt5, and strong encryption using public key cryptography.
-
-![Architecture Diagram](architecture-diagram.png)
 
 ## Overview
 
@@ -21,6 +19,8 @@ Python TLS Chat enables secure communication between users through a client-serv
 The application consists of two main components:
 - **Client**: Handles the user interface and message encryption/decryption
 - **Server**: Manages connections and routes encrypted messages between clients
+
+![image](https://github.com/user-attachments/assets/2dc00035-2a17-425f-a425-bd8172adad44)
 
 ### Client Components
 - ConnectionScreen: Handles initial server connection
@@ -74,4 +74,9 @@ The application consists of two main components:
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues to help improve the application.
+
+## Team Members
+1. Arushi Kumar
+2. Himanshu Singhal
+3. Rishita Agarwal
 
