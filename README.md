@@ -76,7 +76,7 @@ The application consists of two main components:
 Contributions are welcome! Feel free to submit pull requests or open issues to help improve the application.
 
 ## Team Members
-1. Arushi Kumar
-2. Himanshu Singhal
-3. Rishita Agarwal
+1. Arushi Kumar - [@ArushiKumar11](https://github.com/ArushiKumar11)
+2. Himanshu Singhal - [@himanshu-skid19](https://github.com/himanshu-skid19)
+3. Rishita Agarwal - [@rishita3003](https://github.com/rishita3003)
 
